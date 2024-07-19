@@ -1,0 +1,14 @@
+Summary: {'content': "```json\n{'name': '', 'location': ''}\n``` \n", 'role': 'assistant', 'function_call': None, 'tool_calls': None}
+
+Summary: {'content': "The conversation was about the assistant's interests in reading. The assistant provided a JSON object containing only name and location fields, which were both empty. \n", 'role': 'assistant', 'function_call': None, 'tool_calls': None}
+
+Summary: {'content': "The user wants to find a book to read and the assistant is asking for information about the user's reading preferences to make a suggestion. \n", 'role': 'assistant', 'function_call': None, 'tool_calls': None}
+
+
+Costs:
+{'usage_including_cached_inference': {'total_cost': 0.002009, 'gemini-1.5-flash-latest': {'cost': 0.002009, 'prompt_tokens': 164, 'completion_tokens': 41, 'total_tokens': 205}}, 'usage_excluding_cached_inference': {'total_cost': 0.002009, 'gemini-1.5-flash-latest': {'cost': 0.002009, 'prompt_tokens': 164, 'completion_tokens': 41, 'total_tokens': 205}}}
+
+{'usage_including_cached_inference': {'total_cost': 0.001239, 'gemini-1.5-flash-latest': {'cost': 0.001239, 'prompt_tokens': 81, 'completion_tokens': 32, 'total_tokens': 113}}, 'usage_excluding_cached_inference': {'total_cost': 0.001239, 'gemini-1.5-flash-latest': {'cost': 0.001239, 'prompt_tokens': 81, 'completion_tokens': 32, 'total_tokens': 113}}}
+
+{'usage_including_cached_inference': {'total_cost': 0.005236, 'gemini-1.5-flash-latest': {'cost': 0.005236, 'prompt_tokens': 400, 'completion_tokens': 116, 'total_tokens': 516}}, 'usage_excluding_cached_inference': {'total_cost': 0.005236, 'gemini-1.5-flash-latest': {'cost': 0.005236, 'prompt_tokens': 400, 'completion_tokens': 116, 'total_tokens': 516}}}
+

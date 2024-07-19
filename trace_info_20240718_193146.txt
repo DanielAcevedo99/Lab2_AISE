@@ -1,0 +1,147 @@
+Task: 
+Write an article summarizing the following news information:
+
+Title: Peru: Uncontacted indigenous people sighted near river - BBC.com
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy92aWRlb3MvY3pyajBuZXlrNGtv0gEA?oc=5
+Published At: 2024-07-17T23:42:20Z
+Source: Google News
+
+Title: Secret Service struggles to quash congressional fury over Trump assassination attempt - POLITICO
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTcvc2VjcmV0LXNlcnZpY2UtY29uZ3Jlc3MtdHJ1bXAtc2hvb3RpbmctMDAxNjkxODfSAQA?oc=5
+Published At: 2024-07-17T23:21:12Z
+Source: Google News
+
+Title: Four Tornadoes Touch Down in Upstate New York, Killing 1 - The New York Times
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTcvbnlyZWdpb24vdG9ybmFkby1yb21lLW5ldy15b3JrLmh0bWzSAQA?oc=5
+Published At: 2024-07-17T23:11:01Z
+Source: Google News
+
+Title: What is known about the daytime fireball seen over the New York metropolitan area - CNN
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xNy9zY2llbmNlL2ZpcmViYWxsLXNpZ2h0aW5nLXNvbmljLWJvb20tbnljLW5qL2luZGV4Lmh0bWzSAU5odHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzE3L3NjaWVuY2UvZmlyZWJhbGwtc2lnaHRpbmctc29uaWMtYm9vbS1ueWMtbmo?oc=5
+Published At: 2024-07-17T23:08:00Z
+Source: Google News
+
+Title: 2024 RNC live: Watch Day 3 of the Republican National Convention - NBC Chicago
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5uYmNjaGljYWdvLmNvbS8yMDI0LXJuYy1yZXB1YmxpY2FuLW5hdGlvbmFsLWNvbnZlbnRpb24tbWlsd2F1a2VlLzIwMjQtcm5jLWxpdmUtd2F0Y2gtZGF5LTMtb2YtdGhlLXJlcHVibGljYW4tbmF0aW9uYWwtY29udmVudGlvbi8zNDkyODg5L9IBmwFodHRwczovL3d3dy5uYmNjaGljYWdvLmNvbS8yMDI0LXJuYy1yZXB1YmxpY2FuLW5hdGlvbmFsLWNvbnZlbnRpb24tbWlsd2F1a2VlLzIwMjQtcm5jLWxpdmUtd2F0Y2gtZGF5LTMtb2YtdGhlLXJlcHVibGljYW4tbmF0aW9uYWwtY29udmVudGlvbi8zNDkyODg5Lz9hbXA9MQ?oc=5
+Published At: 2024-07-17T23:07:30Z
+Source: Google News
+
+Title: Stock futures rise slightly after Nasdaq's worst day since 2022: Live updates - CNBC
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMTcvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s0gFIaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDcvMTcvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s?oc=5
+Published At: 2024-07-17T23:03:00Z
+Source: Google News
+
+Title: United Airlines earnings outlook underscores discounting pressure - Yahoo Finance
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy91bml0ZWQtYWlybGluZXMtcTMtcHJvZml0LW91dGxvb2stMjAwNDU3MDk2Lmh0bWzSAQA?oc=5
+Published At: 2024-07-17T22:38:29Z
+Source: Google News
+
+Title: US Rep. Schiff calls on Biden to end reelection bid, LA Times reports - Reuters
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLXJlcC1zY2hpZmYtY2FsbHMtYmlkZW4tZHJvcC1vdXQtZWxlY3Rpb24tcmFjZS1sYS10aW1lcy1yZXBvcnRzLTIwMjQtMDctMTcv0gEA?oc=5
+Published At: 2024-07-17T22:37:00Z
+Source: Google News
+
+Title: Largest, most intact stegosaurus fossil ever found sells for $44.6m - The Guardian
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zY2llbmNlL2FydGljbGUvMjAyNC9qdWwvMTcvbGFyZ2VzdC1tb3N0LWludGFjdC1zdGVnb3NhdXJ1cy1mb3NzaWwtZXZlci1mb3VuZC1zZWxscy1mb3ItNDQ2bdIBeGh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9zY2llbmNlL2FydGljbGUvMjAyNC9qdWwvMTcvbGFyZ2VzdC1tb3N0LWludGFjdC1zdGVnb3NhdXJ1cy1mb3NzaWwtZXZlci1mb3VuZC1zZWxscy1mb3ItNDQ2bQ?oc=5
+Published At: 2024-07-17T22:31:00Z
+Source: Google News
+
+Title: Statement from Press Secretary Karine Jean-Pierre - The White House
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LndoaXRlaG91c2UuZ292L2JyaWVmaW5nLXJvb20vc3RhdGVtZW50cy1yZWxlYXNlcy8yMDI0LzA3LzE3L3N0YXRlbWVudC1mcm9tLXByZXNzLXNlY3JldGFyeS1rYXJpbmUtamVhbi1waWVycmUtMy_SAQA?oc=5
+Published At: 2024-07-17T22:21:47Z
+Source: Google News
+
+Title: JD Vance will get his political introduction at the RNC as Trump’s running mate - The Associated Press
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLXZhbmNlLXJuYy0yMDI0LTY3ODgwYTMwMDNhNjk5MzhhZWJkM2FjOGE1ODZkYzY10gEA?oc=5
+Published At: 2024-07-17T22:19:00Z
+Source: Google News
+
+Title: Amazon Heavily Discounts Fire TV Sticks After Game Pass Roll Out - IGN
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvZmlyZS10di1zdGlja3MteGJveC1nYW1lLXBhc3MtcHJpbWUtZGF5LWRlYWxz0gEA?oc=5
+Published At: 2024-07-17T22:15:38Z
+Source: Google News
+
+Title: Musk's X, SpaceX latest companies to move HQ to Texas for more favorable business climate - Fox Business
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9wb2xpdGljcy9tdXNrcy14LXNwYWNleC1sYXRlc3QtY29tcGFuaWVzLW1vdmUtaHEtdGV4YXMtbW9yZS1mYXZvcmFibGUtYnVzaW5lc3MtY2xpbWF0ZdIBAA?oc=5
+Published At: 2024-07-17T22:14:00Z
+Source: Google News
+
+Title: Special counsel appeals dismissal of Trump classified documents case - CNN
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xNy9wb2xpdGljcy9zcGVjaWFsLWNvdW5zZWwtYXBwZWFscy1kaXNtaXNzYWwtb2YtdHJ1bXAtY2xhc3NpZmllZC1kb2N1bWVudHMtY2FzZS9pbmRleC5odG1s0gFwaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8xNy9wb2xpdGljcy9zcGVjaWFsLWNvdW5zZWwtYXBwZWFscy1kaXNtaXNzYWwtb2YtdHJ1bXAtY2xhc3NpZmllZC1kb2N1bWVudHMtY2FzZQ?oc=5
+Published At: 2024-07-17T21:49:00Z
+Source: Google News
+
+Title: Tyler James Williams, Nikki Glaser, Eric André and more react to their Emmy nominations - The Associated Press
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2VtbXlzLTIwMjQtbm9taW5lZXMtcmVhY3Rpb25zLTQ3YWYxMDczMzdhN2UxZmZlNDEzNTM4MDA3ZGNkN2Iz0gEA?oc=5
+Published At: 2024-07-17T21:48:00Z
+Source: Google News
+
+Title: Vaccines Significantly Reduce the Risk of Long Covid, Study Finds - The New York Times
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTcvaGVhbHRoL2xvbmctY292aWQtdmFjY2luZXMuaHRtbNIBAA?oc=5
+Published At: 2024-07-17T21:04:19Z
+Source: Google News
+
+Title: Pentagon ends Gaza pier mission - The Washington Post
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDI0LzA3LzE3L2dhemEtcGllci1taXNzaW9uLWVuZHMtcGVudGFnb24taXNyYWVsL9IBAA?oc=5
+Published At: 2024-07-17T20:42:12Z
+Source: Google News
+
+Title: Harris denounces ‘heinous’ assassination attempt in first public remarks on Trump shooting - POLITICO
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTcva2FtYWxhLWhhcnJpcy10cnVtcC1hc3Nhc3NpbmF0aW9uLWF0dGVtcHQtMDAxNjkxMDfSAQA?oc=5
+Published At: 2024-07-17T20:35:51Z
+Source: Google News
+
+Title: Nintendo World Championships: NES Edition gave me new respect for gaming speedrunners - Ars Technica
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhbWluZy8yMDI0LzA3L25pbnRlbmRvLXdvcmxkLWNoYW1waW9uc2hpcHMtbmVzLWVkaXRpb24tZ2F2ZS1tZS1uZXctcmVzcGVjdC1mb3ItZ2FtaW5nLXNwZWVkcnVubmVycy_SAQA?oc=5
+Published At: 2024-07-17T20:29:50Z
+Source: Google News
+
+Title: Olive Garden Owner Will Buy Chuy’s Restaurants for $605 Million - Bloomberg
+Description: None
+Content: None
+URL: https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA3LTE3L29saXZlLWdhcmRlbi1vd25lci13aWxsLWJ1eS1jaHV5LXMtcmVzdGF1cmFudHMtZm9yLTYwNS1taWxsaW9u0gEA?oc=5
+Published At: 2024-07-17T20:21:25Z
+Source: Google News
+
+
+
+Agent: Admin
+Messages:

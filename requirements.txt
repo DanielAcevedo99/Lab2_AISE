@@ -1,0 +1,4 @@
+google-generativeai
+pyautogen[gemini]==0.2.25
+fastapi
+pyairtable
